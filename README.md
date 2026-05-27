@@ -28,8 +28,8 @@ Esse tipo de monitoramento auxilia na observação das condições do ambiente, 
 | Temp/Umid.  |        | Python Script |        | dados_temp  |        | Dash/Plotly  |
 +-------------+        +---------------+        +-------------+        +--------------+
 
-<h2>Dashboard</h2>
+## Dashboard
 
-<p>Abaixo está um exemplo da visualização dos dados coletados pelo MonitoAR:</p>
+Abaixo está um exemplo da visualização dos dados coletados pelo MonitoAR:
 
-<img src="docs/images/DASH.png" alt="Dashboard do MonitoAR" width="800">
+![Dashboard do MonitoAR](docs/images/DASH.png)
