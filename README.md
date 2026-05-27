@@ -27,7 +27,7 @@ Esse tipo de monitoramento auxilia na observação das condições do ambiente, 
 | Sensor DHT11| -----> | Raspberry Pi  | -----> | SQLite DB   | -----> | Dashboard    |
 | Temp/Umid.  |        | Python Script |        | dados_temp  |        | Dash/Plotly  |
 +-------------+        +---------------+        +-------------+        +--------------+
-
+```
 ## Dashboard
 
 Abaixo está um exemplo da visualização dos dados coletados pelo MonitoAR:
